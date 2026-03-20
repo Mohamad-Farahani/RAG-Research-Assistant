@@ -52,6 +52,56 @@ An end-to-end LLM system for answering research questions using Retrieval-Augmen
         
 Data → Embeddings → Vector DB → RAG → Fine-tuned Model → vLLM API → UI
 
+
+
+## Tech Stack
+
+Python
+
+PyTorch
+
+Hugging Face Transformers
+
+TRL (DPO Training)
+
+FAISS
+
+vLLM
+
+Streamlit
+
+## 📁 Project Structure
+research-ai-assistant/
+├── rag/                # Retrieval pipeline
+├── training/           # SFT + DPO scripts
+├── embeddings/         # Vector DB + FAISS
+├── serving/            # Merged model (excluded from git)
+├── scripts/            # Utilities (merge_model, etc.)
+├── app.py              # Streamlit UI
+├── requirements.txt
+└── README.md
+🔥 Highlights
+
+Built a full LLM pipeline from scratch
+
+Implemented RAG + vector search
+
+Applied LoRA fine-tuning (SFT + DPO)
+
+Deployed with vLLM for optimized GPU inference
+
+Created a working AI product (UI + API)
+
+## 🚧 Future Improvements
+
+📄 Full PDF ingestion
+
+📊 Evaluation metrics (BLEU, ROUGE, etc.)
+
+☁️ Cloud deployment (AWS / GCP)
+
+🧠 Better prompt engineering
+
 ## 🖥️ Demo
 
 Run locally:
