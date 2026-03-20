@@ -71,7 +71,7 @@ vLLM
 Streamlit
 
 ## 📁 Project Structure
-
+---------------------------------------
 
 research-ai-assistant/
 ├── rag/                # Retrieval pipeline
@@ -82,7 +82,8 @@ research-ai-assistant/
 ├── app.py              # Streamlit UI
 ├── requirements.txt
 └── README.md
-🔥 Highlights
+
+##🔥 Highlights
 
 Built a full LLM pipeline from scratch
 
