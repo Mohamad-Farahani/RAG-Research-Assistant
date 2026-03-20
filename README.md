@@ -1,5 +1,4 @@
 # 📚 AI Research Assistant
-![Demo of the application](Animation.gif)
 
 An end-to-end LLM system for answering research questions using Retrieval-Augmented Generation (RAG), fine-tuned language models, and high-performance inference.
 
@@ -59,3 +58,5 @@ Run locally:
 
 ```bash
 streamlit run app.py
+
+![Demo of the application](Animation.gif)
