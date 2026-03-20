@@ -71,6 +71,8 @@ vLLM
 Streamlit
 
 ## 📁 Project Structure
+
+
 research-ai-assistant/
 ├── rag/                # Retrieval pipeline
 ├── training/           # SFT + DPO scripts
