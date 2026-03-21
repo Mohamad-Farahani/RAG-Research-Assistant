@@ -107,9 +107,10 @@ Created a working AI product (UI + API)
 
 ## 🖥️ Demo
 
+![Demo of the application](Animation.gif)
 Run locally:
 
 ```bash
 streamlit run app.py
 
-![Demo of the application](Animation.gif)
+
