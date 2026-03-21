@@ -3,17 +3,6 @@
 An end-to-end LLM system for answering research questions using Retrieval-Augmented Generation (RAG), fine-tuned language models, and high-performance inference.
 
 
-
-research-ai-assistant/
-├── rag/                # Retrieval pipeline
-├── training/           # SFT + DPO scripts
-├── embeddings/         # Vector DB + FAISS
-├── serving/            # Merged model (excluded from git)
-├── scripts/            # Utilities (merge_model, etc.)
-├── app.py              # Streamlit UI
-├── requirements.txt
-└── README.md
-
 ## 🚀 Features
 
 - RAG pipeline using FAISS for document retrieval
@@ -82,18 +71,6 @@ vLLM
 
 Streamlit
 
-## 📁 Project Structure
----------------------------------------
-
-research-ai-assistant/
-├── rag/                # Retrieval pipeline
-├── training/           # SFT + DPO scripts
-├── embeddings/         # Vector DB + FAISS
-├── serving/            # Merged model (excluded from git)
-├── scripts/            # Utilities (merge_model, etc.)
-├── app.py              # Streamlit UI
-├── requirements.txt
-└── README.md
 
 ## 🔥 Highlights
 
