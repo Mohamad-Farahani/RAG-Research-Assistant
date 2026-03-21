@@ -83,7 +83,7 @@ research-ai-assistant/
 ├── requirements.txt
 └── README.md
 
-##🔥 Highlights
+## 🔥 Highlights
 
 Built a full LLM pipeline from scratch
 
