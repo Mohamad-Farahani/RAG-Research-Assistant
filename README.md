@@ -25,7 +25,6 @@ An end-to-end LLM system for answering research questions using Retrieval-Augmen
 <p align="center">
   <img src="structure.png" width="600"/>
 </p>
-
 Data → Embeddings → Vector DB → RAG → Fine-tuned Model → vLLM API → UI
 
 ## Tech Stack
