@@ -21,9 +21,9 @@ An end-to-end LLM system for answering research questions using Retrieval-Augmen
 - Streamlit
 
 ## ⚙️ Architecture
+
 <p align="center">
   <img src="structure.png" width="600"/>
-</p>
 
 ## 🔥 Highlights
 
