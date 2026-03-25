@@ -24,22 +24,6 @@ An end-to-end LLM system for answering research questions using Retrieval-Augmen
 <p align="center">
   <img src="structure.png" width="600"/>
 </p>
-## Tech Stack
-
-Python
-
-PyTorch
-
-Hugging Face Transformers
-
-TRL (DPO Training)
-
-FAISS
-
-vLLM
-
-Streamlit
-
 
 ## 🔥 Highlights
 
